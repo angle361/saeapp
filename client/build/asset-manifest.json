@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/static/js/main.704749e5.chunk.js",
+    "main.js.map": "/static/js/main.704749e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5303953d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5303953d.js.map",
+    "static/js/2.ebf9d71e.chunk.js": "/static/js/2.ebf9d71e.chunk.js",
+    "static/js/2.ebf9d71e.chunk.js.map": "/static/js/2.ebf9d71e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f5e0a249f00e1279220db783bf9071f3.js": "/precache-manifest.f5e0a249f00e1279220db783bf9071f3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.ebf9d71e.chunk.js.LICENSE.txt": "/static/js/2.ebf9d71e.chunk.js.LICENSE.txt",
+    "static/js/main.704749e5.chunk.js.LICENSE.txt": "/static/js/main.704749e5.chunk.js.LICENSE.txt",
+    "static/media/Axelerate.jpg": "/static/media/Axelerate.052f0788.jpg",
+    "static/media/aquadrivelow.jpg": "/static/media/aquadrivelow.0e872fcb.jpg",
+    "static/media/atv-gallery.png": "/static/media/atv-gallery.8a8ad2b9.png",
+    "static/media/atv.jpg": "/static/media/atv.7a8797e4.jpg",
+    "static/media/axelerate20-1.jpg": "/static/media/axelerate20-1.74331f50.jpg",
+    "static/media/design.jpg": "/static/media/design.67b34c07.jpg",
+    "static/media/harsh.jpg": "/static/media/harsh.8cbe3917.jpg",
+    "static/media/lady-img.jpg": "/static/media/lady-img.2cf54d5b.jpg",
+    "static/media/quiz.png": "/static/media/quiz.1c5f72be.png",
+    "static/media/rc2.jpg": "/static/media/rc2.9ac31391.jpg",
+    "static/media/saelogohd2.png": "/static/media/saelogohd2.d51d0073.png",
+    "static/media/screws.png": "/static/media/screws.1b07e436.png",
+    "static/media/self-driving.jpg": "/static/media/self-driving.16e498cb.jpg",
+    "static/media/smartbike.jpg": "/static/media/smartbike.19cfa842.jpg",
+    "static/media/sudeep.jpg": "/static/media/sudeep.f9a573dc.jpg",
+    "static/media/team.png": "/static/media/team.fa8cb275.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5303953d.js",
+    "static/js/2.ebf9d71e.chunk.js",
+    "static/js/main.704749e5.chunk.js"
+  ]
+}
